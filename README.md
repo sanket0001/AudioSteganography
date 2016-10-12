@@ -1,6 +1,8 @@
 # AudioSteganography
 This is a repository for Audio Steganography.
 
+I have used Least Significant Bit Algorithm for audio steganography.
+
 Src file contains all java files.
 
 example contains sample audio file and text file and also output.
